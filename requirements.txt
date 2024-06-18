@@ -1,0 +1,4 @@
+# Dependency list for Kaggle Skill Assement Challenge
+
+kaggle==1.6.14
+pandas==2.2.2
