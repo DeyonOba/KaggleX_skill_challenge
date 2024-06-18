@@ -1,4 +1,4 @@
-# KaggleX Assesment Skill Challenge
+# KaggleX Skill Assesment Challenge
 
 ## Dataset Description
 
@@ -18,6 +18,11 @@ The dataset for this competition (both train and test) was generated from a deep
 This dataset is a valuable resource for automotive enthusiasts, buyers, and researchers interested in analyzing trends, making informed purchasing decisions or conducting studies related to the automotive industry and consumer preferences. Whether you are a data analyst, car buyer, or researcher, this dataset offers a wealth of information to explore and analyze.
 
 ## Files
-- train.csv - the training dataset; refer to the original dataset link above for column descriptions
-- test.csv - the test dataset; your objective is to predict the value of the target Price
-- sample_submission.csv - a sample submission file in the correct format
+- `train.csv` - the training dataset; refer to the original dataset link above for column descriptions
+- `test.csv` - the test dataset; your objective is to predict the value of the target Price
+- `sample_submission.csv` - a sample submission file in the correct format
+
+## Reference
+
+- https://www.kaggle.com/kagglex/#prospective-fellows
+- https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset
